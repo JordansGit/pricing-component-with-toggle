@@ -21,6 +21,7 @@ Users should be able to:
 
 - HTML5
 - CSS 
+- Sass 
 - JavaScript
 
 ### Screenshot
